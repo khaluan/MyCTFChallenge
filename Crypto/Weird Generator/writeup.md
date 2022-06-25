@@ -10,3 +10,5 @@ $$\implies \frac{n - 1 }{4g^2}= rs + \frac{r + s}{2g}$$
 Since r, s and g are all 512-bit numbers the value of the later fraction range from -2 to 2. Then divide both sides by $4g^2$ will approximates the value of $rs$ with an error within 2 unit. Check for each case and get the flag.
 
 Full script is [here](./solver.py)
+
+**P/S**: The original problem is not that easy, and I don't even know the source of the problem. Sorry about that.
